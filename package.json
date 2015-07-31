@@ -1,0 +1,24 @@
+{
+  "name": "restify-redirect",
+  "version": "1.0.0",
+  "description": "Middleware to add .redirect() method to the Response object. Based on Express.",
+  "main": "lib/middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegameofcode/restify-redirect.git"
+  },
+  "keywords": [
+    "restify",
+    "redirect",
+    "express"
+  ],
+  "author": "guumaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegameofcode/restify-redirect/issues"
+  },
+  "homepage": "https://github.com/thegameofcode/restify-redirect#readme"
+}
